@@ -1,7 +1,7 @@
 # Blockchain-Based-Voting-System
 
 #### Abstract
-This paper support the open source Blockchain technology to propose a design for a new electronic voting system that could be used in local or national elections.
+The idea behind this project is how Blockchain technology can be used to propose a design for a new electronic voting system that could be used in local or national elections.
 
 #### Introduction
 An e-Voting system has to have heightened security in order make sure it is available to voters but protected against outside influences changing votes from being cast, or keep a voter’s ballot from being tampered with. Many electronic voting systems rely on to hide the identity of voters. However, this technique does not provide total anonymity or integrity since many intelligence agencies around the world control different parts of the Internet which can allow them to identify or intercept votes. 
@@ -31,7 +31,7 @@ All of the magic lies in the way this data is stored and added to the blockchain
 Clone the project,
 
 ```sh
-$ git clone https://github.com/adhikarir/E-voting-system-using-blockchain-and-python.git
+$ git clone https://github.com/darshanoo7/Blockchain-Based-Voting-System
 ```
 
 Install the dependencies,
